@@ -12,9 +12,11 @@ A alfredworkflow that you can autocomplete & search in npmjs.com
 
 3).press [enter] to open target in browser
 ```
-## 2. search in dpr/dpi/device width
+## 2. search dpr,ppi,device-width,physical size, etc.
 ```
 1).dpi(or dpr) [your mobile device name]
 
 2.)click or press [enter] to copy all the device info
 ```
+
+Data source: http://screensiz.es/
