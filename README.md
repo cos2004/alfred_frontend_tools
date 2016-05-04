@@ -1,7 +1,5 @@
-# alfred_frontend_tools
-some frontend tools for Alfred
-
-Notice: alfredworkflow powerpack required.
+# Alfred frontend tools
+Some frontend tools for Alfred, alfred powerpack required.
 
 ## 1. search in npmjs
 A alfredworkflow that you can autocomplete & search in npmjs.com
