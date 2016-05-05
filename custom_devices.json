@@ -1,0 +1,73 @@
+[{
+    "device type":"phone",
+    "device name":"Xiaomi 5",
+    "operating system":"Android",
+    "physical size":"13.081",
+    "width":"1080",
+    "height":"1920",
+    "device-width":"360",
+    "px per inch":"428",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}, {
+    "device type":"phone",
+    "device name":"Xiaomi 4s/4c/4",
+    "operating system":"Android",
+    "physical size":"12.7",
+    "width":"1080",
+    "height":"1920",
+    "device-width":"360",
+    "px per inch":"441",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}, {
+    "device type":"phone",
+    "device name":"Xiaomi Note",
+    "operating system":"Android",
+    "physical size":"14.478",
+    "width":"1080",
+    "height":"1920",
+    "device-width":"360",
+    "px per inch":"386",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}, {
+    "device type":"phone",
+    "device name":"Xiaomi 2/2s",
+    "operating system":"Android",
+    "physical size":"10.922",
+    "width":"720",
+    "height":"1280",
+    "device-width":"360",
+    "px per inch":"342",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}, {
+    "device type":"phone",
+    "device name":"Samsung Galaxy S6",
+    "operating system":"Android",
+    "physical size":"12.954",
+    "width":"1440",
+    "height":"2560",
+    "device-width":"360",
+    "px per inch":"576",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}, {
+    "device type":"phone",
+    "device name":"Samsung Galaxy S5",
+    "operating system":"Android",
+    "physical size":"12.954",
+    "width":"1080",
+    "height":"1920",
+    "device-width":"360",
+    "px per inch":"432",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}]
