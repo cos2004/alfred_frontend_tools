@@ -1,5 +1,7 @@
 # Alfred frontend tools
-Alfred这个效率工具真的是键盘党的得力神器。这个workflow包含了几个前端开发常用的功能，功能不定期更新，安装自定义workflow需要powerpack(17欧)，请支持正版
+[Alfred](https://www.alfredapp.com/)这个效率工具真的是键盘党的得力神器，通过键盘快捷键就可以实现打开文件(夹)、查看剪切板历史、搜索、自定义工作流(脚本)等等，通过“关键字+输入=输出”实现各种玩法。
+
+这个workflow包含了几个前端开发常用的功能，功能不定期更新，目标是囊括前端开发常见的查询工作流。安装自定义workflow需要powerpack(17欧)，请支持正版。
 
 ## 1. 速查设备dpr,ppi,device-width,physical size等信息
 将会定期更新、尤其是国产手机的设备信息
