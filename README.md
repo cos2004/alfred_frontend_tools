@@ -1,4 +1,3 @@
-{:toc}
 # Alfred frontend tools
 [Alfred](https://www.alfredapp.com/)这个效率工具真的是键盘党的得力神器，通过键盘快捷键就可以实现打开文件(夹)、查看剪切板历史、搜索、自定义工作流(脚本)等等，通过“关键字+输入=输出”实现各种玩法。
 
