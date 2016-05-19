@@ -48,6 +48,18 @@
     "popularity":""
 }, {
     "device type":"phone",
+    "device name":"Xiaomi Max",
+    "operating system":"Android",
+    "physical size":"16.3576",
+    "width":"1080",
+    "height":"1920",
+    "device-width":"360",
+    "px per inch":"342",
+    "px density":"",
+    "aspect ratio":"9 : 16",
+    "popularity":""
+}, {
+    "device type":"phone",
     "device name":"Samsung Galaxy S6",
     "operating system":"Android",
     "physical size":"12.954",
