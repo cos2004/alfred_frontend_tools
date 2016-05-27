@@ -40,6 +40,7 @@
 ```
 1).git set 设置你的github用户名(本地保存)
 2).git set 设置你的github密码(本地保存，可不设置，但这样会搜索不到你的私有gist代码)
+// 以上的配置仅需配置一次，下次使用的时候直接执行下面的步骤就好
 3).gist [your keyword]；如没有匹配的结果则输出你的全部gist
 4).press [enter] to copy the codes
 ```
