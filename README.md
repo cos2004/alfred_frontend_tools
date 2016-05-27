@@ -35,6 +35,22 @@
 1).yd [your word]
 ```
 
+## 5. Gist搜索
+搜索你的gist代码片段，并拷贝
+```
+1).git set 设置你的github用户名(本地保存)
+2).git set 设置你的github密码(本地保存，可不设置，但这样会搜索不到你的私有gist代码)
+3).gist [your keyword]；如没有匹配的结果则输出你的全部gist
+4).press [enter] to copy the codes
+```
+
+## 6. 勾股定理计算器
+输入三个参数：直角边 直角边 斜边，未知数用x代替
+```
+1).gougu 3 4 x
+2).press [enter] to copy the result
+```
+
 
 ## Thanks:
 http://screensiz.es/
@@ -42,5 +58,7 @@ http://screensiz.es/
 有道翻译http://fanyi.youdao.com/openapi
 
 https://searchcode.com/
+
+github api：https://developer.github.com/v3/
 
 
